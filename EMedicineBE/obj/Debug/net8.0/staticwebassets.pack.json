@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\build\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\favicon.ico",
+      "PackagePath": "staticwebassets\\build\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\index.html",
+      "PackagePath": "staticwebassets\\build\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\logo192.png",
+      "PackagePath": "staticwebassets\\build\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\logo512.png",
+      "PackagePath": "staticwebassets\\build\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\manifest.json",
+      "PackagePath": "staticwebassets\\build\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\robots.txt",
+      "PackagePath": "staticwebassets\\build\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\static\\css\\main.f855e6bc.css",
+      "PackagePath": "staticwebassets\\build\\static\\css\\main.f855e6bc.css"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\static\\css\\main.f855e6bc.css.map",
+      "PackagePath": "staticwebassets\\build\\static\\css\\main.f855e6bc.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\static\\js\\453.c96073a5.chunk.js",
+      "PackagePath": "staticwebassets\\build\\static\\js\\453.c96073a5.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\static\\js\\453.c96073a5.chunk.js.map",
+      "PackagePath": "staticwebassets\\build\\static\\js\\453.c96073a5.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\static\\js\\main.954c6c9e.js",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.954c6c9e.js"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\static\\js\\main.954c6c9e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.954c6c9e.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\static\\js\\main.954c6c9e.js.map",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.954c6c9e.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azizb\\source\\repos\\EMedicineBE\\wwwroot\\build\\static\\media\\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+      "PackagePath": "staticwebassets\\build\\static\\media\\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EMedicineBE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EMedicineBE.props",
+      "PackagePath": "build\\EMedicineBE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EMedicineBE.props",
+      "PackagePath": "buildMultiTargeting\\EMedicineBE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EMedicineBE.props",
+      "PackagePath": "buildTransitive\\EMedicineBE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
